@@ -58,7 +58,7 @@ public class Application {
     public static double div(double num1,double num2) {
         double result = num1/num2;
         if (num2 == 0) {
-            System.out.println("Алёёё, делить на ноль нельзя!");
+            System.out.println("Делить на ноль нельзя!");
         }
         return result;
     }
